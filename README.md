@@ -1,4 +1,4 @@
-```markdown
+
 # 🤖 MonetizeMachine
 
 > The world's first AI-powered prompt validation and monetization platform
@@ -25,7 +25,7 @@ MonetizeMachine solves the **$100M prompt quality problem**. While everyone else
 
 ## 🚀 Quick Start
 
-```bash
+bash
 # Clone the repository
 git clone https://github.com/bcedeno/MonetizeMachine.git
 cd MonetizeMachine
